@@ -1,2 +1,20 @@
-# My-First-Data-Analysis-repo
-Data Analysis Project 
+# Project: My-First-Data-Analysis-repo
+
+------
+# Project Objective: Problem statement 
+
+
+
+-----
+# Data Sourcing 
+
+
+
+-----
+# Data Transformstion 
+
+
+
+----
+# Findings and Recommendation 
+
